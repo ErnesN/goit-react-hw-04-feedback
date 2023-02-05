@@ -1,0 +1,15 @@
+.button {
+    margin-left: 20px;
+    padding: 5px 10px;
+    width: 100px;
+    background-color: rgb(57, 14, 212);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+
+    &:hover {
+        background-color: cornflowerblue;
+        color: rgb(57, 14, 212);
+    }
+}
